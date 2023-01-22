@@ -1,0 +1,25 @@
+
+*
+{
+    text-decoration: none;
+}
+.Navbar{
+   background-color: rgb(34, 18, 56);
+   color: white;
+   font-size: 18px;
+   height: 80px;
+   line-height: 80px;
+}
+.navbar-container{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.navbar-logo{
+    color: white;
+    font-size: 25px;
+}

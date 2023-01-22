@@ -1,0 +1,36 @@
+
+.footer{
+    padding: 50px;
+    background-color:  rgb(34, 18, 56);
+ 
+}
+.cdf{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin-right: 30px;
+    padding:8px 50px;
+    /* background-color:#3f00ff; */
+
+    border:none;
+    color:white;border-radius:5px;
+}
+.footer-links{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 50px 10px;
+}
+.footer-links ul {
+    list-style: none;
+    margin: 0%;
+    padding: 0;
+}
+.copyright{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
